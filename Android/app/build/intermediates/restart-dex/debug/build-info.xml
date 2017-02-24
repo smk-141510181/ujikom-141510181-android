@@ -5,46 +5,33 @@
     density="hdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="40138504015890"
+    timestamp="45674417487974"
     token="5317775632879459323"
-    verifier="COMPATIBLE" >
+    verifier="BINARY_MANIFEST_FILE_CHANGE" >
 
     <task
         name="javac"
-        duration="10110" />
+        duration="11166" />
     <task
         name="instant-run-dex"
-        duration="2075" />
+        duration="0" />
     <task
         name="instant-run-transform"
-        duration="484" />
+        duration="3074" />
     <task
         name="verifier"
-        duration="401" />
+        duration="190" />
 
     <artifact
-        location="C:\laragon\www\ujikom-2017\Android\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-        type="RESOURCES" />
-    <artifact
-        location="C:\laragon\www\ujikom-2017\Android\app\build\intermediates\reload-dex\debug\classes.dex"
-        type="RELOAD_DEX" />
+        location="C:\laragon\www\ujikom-2017\Android\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="39511769823544"
-        verifier="FULL_BUILD_REQUESTED" >
+        timestamp="45674417487974"
+        verifier="BINARY_MANIFEST_FILE_CHANGE" >
         <artifact
             location="C:\laragon\www\ujikom-2017\Android\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="40138504015890"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="C:\laragon\www\ujikom-2017\Android\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="C:\laragon\www\ujikom-2017\Android\app\build\intermediates\reload-dex\debug\classes.dex"
-            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

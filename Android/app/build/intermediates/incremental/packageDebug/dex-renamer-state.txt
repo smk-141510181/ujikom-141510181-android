@@ -1,4 +1,4 @@
-#Sat Feb 25 02:24:36 ICT 2017
+#Sat Feb 25 04:04:37 ICT 2017
 base.0=C\:\\laragon\\www\\ujikom-2017\\Android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_eecbcf01cc0db7ed22e2391074d8fe2e91139b16
 renamed.1=classes2.dex
 renamed.0=classes.dex

@@ -55,6 +55,7 @@ public class MainActivity extends Activity {
 		String email = user.get("email");
 		String nip = user.get("nip");
         String photo = user.get("photo");
+		String nama_jabatan = user.get("nama_jabatan");
 
 		// Displaying the user details on the screen
 		txtName.setText(name);
