@@ -62,7 +62,7 @@ public class MainActivity extends Activity {
 		txtNip.setText(nip);
 
         // Displaying Photo From DB on the screen
-        Picasso.with(this).load(photo).resize(400,400).into(imageView);
+        Picasso.with(this).load(photo).resize(300,300).into(imageView);
 
 		// Logout button click event
 		btnLogout.setOnClickListener(new View.OnClickListener() {

@@ -3,30 +3,39 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\User\Music\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jar="C:\laragon\www\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\laragon\www\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_fba2a328d245a6b0e9afb18d0d7acf4dd3d47170\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\laragon\www\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\laragon\www\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_61412c2f99dd046f29579fc53976e40e62179a49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\laragon\www\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\laragon\www\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_9ac523e46b9fc7ff0d65314f7167dd7bd4bff07d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\laragon\www\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
         sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="C:\Users\User\Music\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_8008ae849a6bd82c18dacbffda6331dca516b38b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\User\Music\ujikom-2017\Android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="1d7154c1c19f93e9efaf6ebe6b28d0805d16ecee">
-        <dex dex="C:\Users\User\Music\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_420ce0dfc3cd10b397ee7aa7b908afcdd2d1bfae\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\User\Music\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
-        <dex dex="C:\Users\User\Music\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mcxiaoke.volley-library-aar-1.0.0_3fb46efe4d18c046eb30d96b7cbd0791e62e58e4\classes.dex" />
+        <dex dex="C:\laragon\www\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_d4221d2b2be792f5a0b3170d4f849051a274c33b\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -35,52 +44,43 @@
         optimize="true"
         revision="23.0.3"
         sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="C:\Users\User\Music\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_3e801f2c585276f3f273a9825aabeda71442f872\classes.dex" />
+        <dex dex="C:\laragon\www\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_3e801f2c585276f3f273a9825aabeda71442f872\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\User\Music\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jar="C:\laragon\www\ujikom-2017\Android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e0944f240932e5d8b50fc33339a70e44f3e02b2d">
+        <dex dex="C:\laragon\www\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c4f37fe458ed5f4a1232bad8eb2f8e54865395d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\laragon\www\ujikom-2017\Android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="479decb5489ff091a22a6808a1ba3a1d0969fa48">
+        <dex dex="C:\laragon\www\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_eecbcf01cc0db7ed22e2391074d8fe2e91139b16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\laragon\www\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\laragon\www\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mcxiaoke.volley-library-aar-1.0.0_dcaec634bb6e8ee7efb1f01ee7432ca43cf9b8e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\laragon\www\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
         sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="C:\Users\User\Music\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_a26742ac584edda1cbb361b8a57aface8ca162d0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\User\Music\ujikom-2017\Android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="3c09fd5c3f8782cb11de8b837a870e442a9c4093">
-        <dex dex="C:\Users\User\Music\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c88b0c8ea669c722b359c652a47bbaf362881432\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\User\Music\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
-        <dex dex="C:\Users\User\Music\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_09f9718712becb1a97565ad0be5fc851c03a7535\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\User\Music\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="C:\Users\User\Music\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_1e0bc916c86d8876cdbe89d26cc8ae2c286b053e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\User\Music\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="C:\Users\User\Music\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_956ba95bb4e8bba22176889a7d11765e6472556a\classes.dex" />
+        <dex dex="C:\laragon\www\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_f85194ac4ccf2525e6452ea8acaecfed05c73b84\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -89,7 +89,7 @@
         optimize="true"
         revision="23.0.3"
         sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="C:\Users\User\Music\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_badcc59626c8bf60fbd570ba883ac0f8d5c9be7a\classes.dex" />
+        <dex dex="C:\laragon\www\ujikom-2017\Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_badcc59626c8bf60fbd570ba883ac0f8d5c9be7a\classes.dex" />
     </item>
 
 </items>
